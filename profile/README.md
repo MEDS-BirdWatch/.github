@@ -36,7 +36,9 @@ This project uses avian observations from within areas defined by the United Sta
 
 ## Contributors
 Team members: Nathalie Bonnet, Isabella Segarra, Peter Vitale
+
 Client: Dr. Sam Veloz with Point Blue Conservation Science
+
 Faculty Advisor: Dr. Naomi Tague
 
 ## Acknowledgements
@@ -50,13 +52,20 @@ Dr. Max Czapanskiy, Bren School of Environmental Science & Management
 
 ### Datasets
 
-**[Avian Knowledge Network (AKN)](https://avianknowledge.net/)**: Avian Knowledge Network provides Level 5 (publicly accessible, non sensitive) data to users who create an account on the site. 
+**[Avian Knowledge Network (AKN)](https://avianknowledge.net/)**: Avian Knowledge Network provides Level 5 (publicly accessible, non sensitive) data to users who create an account on the site. Data from AreaSearch and PointCount Survey types at this level were used in analysis. 
 
 **[Protected Areas Database (PAD-US) Data](https://www.usgs.gov/programs/gap-analysis-project/science/pad-us-data-download)**: U.S. Geological Survey (USGS) Gap Analysis Project (GAP), 2024, Protected Areas Database of the United States (PAD-US) 4.1: U.S. Geological Survey data release, https://doi.org/10.5066/P96WBCHS. These data were used to classify land management status in the analyses.
 
-**[CAL FIRE WHR13 Types](https://gis.data.cnra.ca.gov/maps/CALFIRE-Forestry::california-vegetation-whr13-types)**: 
+**[CAL FIRE WHR13 Types](https://gis.data.cnra.ca.gov/maps/CALFIRE-Forestry::california-vegetation-whr13-types) and [CALFIRE FRAP [ds1327]](https://www.arcgis.com/home/item.html?id=58f81510e4c14b1da3c64823302f5101)**: CAL FIRE Vegetation data classified as of 2024 was used in analyses to represent habitat types across California. These data combine CAL FIRE WHR13 data and other WHR classes.
+
+**[Partners in Flight Avian Conservation Assessment Database Scores Regional](https://pif.birdconservancy.org/avian-conservation-assessment-database-scores/)**: Partners in Flight data was used to provide conservation assessment data and rankings for all North American bird species of conservation of concern for California BCR Regions. These data were used with indicator species outcomes from AKN data to create a list of focal species to assess population trends. 
+
+**[United States Census Bureau 2025 TIGER/Line® Shapefiles: Counties (and equivalent)](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2025&layergroup=Counties+%28and+equivalent%29)**: Used to create public facing data visualization of avian observations per California County. 
+
 
 ### R and R Studio
+**Packages and versions**
+
 
 ### Key Literature
 
