@@ -28,7 +28,7 @@ A major challenge in approaching this goal is the lack of high resolution biodiv
 This project uses avian observations from within areas defined by the United States Geological Service GAP project to inform resource investment decisions within the state. Point Blue Conservation Science hosts millions of avian observations on their platform Avian Knowledge Network (AKN) which can be used to fill the gap in high quality data, enabling analysis of where biodiversity and conservation efforts intersect. We will integrate AKN data with USGS GAP status designations to quantify the relationship between conservation status and biodiversity. This analysis will be synthesized into a technical memo detailing the results. This memo, along with a github repository and possible story map, will aid Point Blue in achieving their 5 year plan, as well as influence their recommendations to the state in regards to the implementation of the 30 x 30 goals. 
 
 ## Repository Structure
-**[.github](https://github.com/MEDS-BirdWatch/.github)**: This repository contains the prohect overview information including repository directory.
+**[.github](https://github.com/MEDS-BirdWatch/.github)**: This repository contains the project overview information including repository directory.
 
 **[Avian_GAP_Analysis](https://github.com/MEDS-BirdWatch/Avian_GAP_Analysis)**: This repository houses all final workflow components for spatial and statistical analyses. Inside the repository are functions, quarto documents with each step in analysis, and final outputs. The README contains information about analytical decision making to guide users on reproducing analyses. 
 
