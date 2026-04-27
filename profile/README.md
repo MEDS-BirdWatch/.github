@@ -16,7 +16,7 @@ This is a capstone project for the [Master of Environmental Data Science](https:
 
 <h2 align="center">
 
-[Deliverables](link) | [Deliverables]() 
+[Project Description](https://bren.ucsb.edu/projects/mind-gap-avian-responses-conservation-investments-california)  
 
 </h2>
 
