@@ -12,7 +12,7 @@ Mind the GAP: Avian responses to conservation investments in California
 
 ![birdwatch_proposal_photo](https://github.com/user-attachments/assets/2529c257-a5e3-42b1-85d1-3107a7994b34)
 
-This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara”
+This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara
 
 <h2 align="center">
 
@@ -64,7 +64,7 @@ Dr. Max Czapanskiy, Bren School of Environmental Science & Management
 
 
 ### R and R Studio
-**Packages and versions**
+**Packages and versions used**
 
 
 ### Key Literature
