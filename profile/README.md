@@ -65,13 +65,17 @@ Dr. Max Czapanskiy, Bren School of Environmental Science & Management
 
 ### Key Literature
 
-California Natural Resources Agency. (2022). Pathways to 30x30 California. California Natural Resources Agency. 
-California Natural Resources Agency. (2025). 30x30 progress report. California Natural Resources Agency.
+California Natural Resources Agency (CRNA). 2022. Final Pathways to 30x30 Strategy. https://resources.ca.gov/-/media/CNRA-Website/Files/Initiatives/30-by-30/Final_Pathwaysto30x30_042022_508.pdf 
+
+California Natural Resources Agency (CRNA). 2025. Pathways to 30 x 30 California Progress Report 2024.  https://resources.ca.gov/-/media/CNRA-Website/Files/2025-30x30-Pathways-Progress-Report.pdf
+
 Gonzalez, A., Chase, J. M., & O'Connor, M. I. (2023). A framework for the detection and attribution of biodiversity change. Philosophical Transactions of the Royal Society B: Biological Sciences, 378(1881), 20220182. https://doi.org/10.1098/rstb.2022.0182
+
 Harrison, S., Franklin, J., Hernandez, R. R., Ikegami, M., Safford, H. D., & Thorne, J. H. (2024). Climate change and California's terrestrial biodiversity. Proceedings of the National Academy of Sciences, 121(32), e2310074121. https://doi.org/10.1073/pnas.2310074121
+
 Moussy, C., Burfield, I. J., Stephenson, P. J., et al. (2022). A quantitative global review of species population monitoring. Conservation Biology, 36, e13721. https://doi.org/10.1002/cobi.13721
+
 Urban, M. C., Alberti, M., De Meester, L., et al. (2024). Interactions between climate change and urbanization will shape the future of biodiversity. Nature Climate Change, 14, 436–447. https://doi.org/10.1038/s41558-024-01996-2
+
 U.S. Geological Survey. (2024). Gap Analysis Project (GAP). https://www.usgs.gov/programs/gap-analysis-project 
 Zhou, J., Yang, Fl., Zhong, Zj. et al. Surrogacy of bird species in systematic conservation planning and conservation assessments in Yunnan Province, China. J. Mt. Sci. 19, 2861–2873 (2022). https://doi.org/10.1007/s11629-021-7251-z
-
-
