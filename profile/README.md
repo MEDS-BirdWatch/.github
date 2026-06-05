@@ -10,7 +10,7 @@ Mind the GAP: Avian responses to conservation investments in California
 
 </h2>
 
-![Photo from the Bren Website](https://bren.ucsb.edu/sites/default/files/2026-01/sunset-nature-flying-birds-lake-and-mountain-bac-2026-01-09-14-11-34-utc.jpg)
+[Photo from the Bren Website](https://bren.ucsb.edu/sites/default/files/2026-01/sunset-nature-flying-birds-lake-and-mountain-bac-2026-01-09-14-11-34-utc.jpg)
 
 
 This is a capstone project for the [Master of Environmental Data Science](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at [Bren School of Environmental Science and Management](https://bren.ucsb.edu), University of California, Santa Barbara
